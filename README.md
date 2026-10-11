@@ -1,4 +1,4 @@
-# AI Pulse 🚀
+# AI Pulse 
 
 An emerging AI tool update dashboard that aggregates AI news, model releases, and tool launches from multiple sources, summarizes them with Claude, and provides both a digest UI and RAG-based chat interface.
 
